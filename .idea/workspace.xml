@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b42bff6-a31b-4f85-bffc-4621d07aa6c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StoredProcedureTesting/SPTesting.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -28,9 +45,109 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.SPTesting">
+    <configuration name="SPTesting (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataBaseTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StoredProcedureTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StoredProcedureTesting" />
+      <option name="MAIN_CLASS_NAME" value="StoredProcedureTesting.SPTesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPTesting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataBaseTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StoredProcedureTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StoredProcedureTesting" />
+      <option name="MAIN_CLASS_NAME" value="StoredProcedureTesting.SPTesting" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPTesting.selectAllCustomers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataBaseTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StoredProcedureTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StoredProcedureTesting" />
+      <option name="MAIN_CLASS_NAME" value="StoredProcedureTesting.SPTesting" />
+      <option name="METHOD_NAME" value="selectAllCustomers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPTesting.selectAllCustomersByCity" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataBaseTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StoredProcedureTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StoredProcedureTesting" />
+      <option name="MAIN_CLASS_NAME" value="StoredProcedureTesting.SPTesting" />
+      <option name="METHOD_NAME" value="selectAllCustomersByCity" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPTesting.storedProcedureExists" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DataBaseTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StoredProcedureTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StoredProcedureTesting" />
+      <option name="MAIN_CLASS_NAME" value="StoredProcedureTesting.SPTesting" />
+      <option name="METHOD_NAME" value="storedProcedureExists" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SPTesting" />
+        <item itemvalue="TestNG.SPTesting.selectAllCustomersByCity" />
+        <item itemvalue="TestNG.SPTesting.selectAllCustomers" />
+        <item itemvalue="TestNG.SPTesting.storedProcedureExists" />
+        <item itemvalue="TestNG.SPTesting (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
